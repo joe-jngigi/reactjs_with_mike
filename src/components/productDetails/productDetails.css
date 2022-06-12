@@ -1,0 +1,11 @@
+.newProd{
+    width: 25%;
+    margin: 20px;
+    height: 150px;
+    text-align: center;
+    background-color: cadetblue;
+    border-radius: 10px;
+}
+.newProd h2{
+    margin-top: 20px;
+}
