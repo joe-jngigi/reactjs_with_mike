@@ -1,33 +1,33 @@
 /*This is an external CSS. This particular will style all elements that will be rendered in the index.js*/
-*{
-    color: rgb(11, 63, 63);
+* {
+  color: rgb(11, 63, 63);
 
-            margin: 0px;
-            padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
-.prodDets{
-    display: flex;  
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+.prodDets {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
-.mainHeading{
-    margin: auto;
-    width: 80%;
-    background-color: seagreen;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.mainHeading {
+  margin: auto;
+  width: 80%;
+  background-color: seagreen;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
-.mainHeading h2{
-    text-align: center;
-    padding: 20px 0px;
-    margin: 0px 20px;
+.mainHeading h2 {
+  text-align: center;
+  padding: 20px 0px;
+  margin: 0px 20px;
 }
-.clickButton{
-    padding: 10px;
-    outline: none;
-    border: none;
-    border-radius: 10px;
-    font-size: medium;
-    margin-left: 3px;
+.clickButton {
+  padding: 10px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  font-size: medium;
+  margin-left: 3px;
 }
